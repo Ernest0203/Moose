@@ -1,0 +1,22 @@
+
+@font-face {
+    font-family: 'RobotoCondensedBold';
+    src: url('../fonts/Roboto/RobotoCondensed-Bold.ttf');
+    }
+@font-face {
+    font-family: 'Roboto-Regular';
+    src: url('../fonts/Roboto/Roboto-Regular.ttf');
+    }
+@font-face {
+    font-family: 'RobotoSlabBold';
+    src: url('../fonts/Roboto/RobotoSlabBold.ttf');
+    }
+@font-face {
+    font-family: 'RobotoSlabLight';
+    src: url('../fonts/Roboto/RobotoSlabLight.ttf');
+    }
+@font-face {
+    font-family: 'ArcherBold';
+    src: url('../fonts/Archer_Bold.ttf');
+    }
+
